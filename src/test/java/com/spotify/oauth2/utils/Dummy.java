@@ -4,6 +4,6 @@ public class Dummy {
 
 	private void m() {
 		System.out.println("In Method m()");
-
+		System.out.println("In Method m()");
 	}
 }
