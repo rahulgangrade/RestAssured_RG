@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.spotify.oauth2.tests.PlayListTests
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.061 s - in com.spotify.oauth2.tests.PlayListTests
